@@ -4,7 +4,9 @@ A full-stack mental wellness platform that assesses anxiety and depression
 risk from user input using machine learning.
 
 🔗 Live app: https://night-shift-sandy.vercel.app/
+
 🔗 Full team repo: https://github.com/saachib30/MindMetrics
+
 🔗 Dashboard : https://public.tableau.com/app/profile/falguni.sawant/viz/MindMetrics/Dashboard1?publish=yes
 
 ## My role (Saachi Bhimanpalli)
